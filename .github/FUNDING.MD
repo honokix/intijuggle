@@ -1,3 +1,3 @@
-custom: "https://www.google.com<!--"
+custom: "<!--https://www.google.com<!--"
 custom: !import ohno
-custom: "http://-->evil.com"
+custom: "-->http://evil.com"
