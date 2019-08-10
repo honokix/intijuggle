@@ -1,1 +1,3 @@
-custom: https://www.paypal.me/octocat
+custom: "https://www.google.com"
+custom: !import ohno
+custom: "http://evil.com"
